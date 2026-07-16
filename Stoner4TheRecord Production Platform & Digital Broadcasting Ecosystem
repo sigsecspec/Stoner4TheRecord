@@ -1,0 +1,708 @@
+# 🌿 Stoner4TheRecord
+# Production Platform & Digital Broadcasting Ecosystem
+## Version 2.0
+
+---
+
+# Vision
+
+Stoner4TheRecord is more than a website.
+
+It is an all-in-one broadcasting platform that combines:
+
+- Television Studio
+- Radio Station
+- Production Control Room
+- Podcast Network
+- Live Event Platform
+- Gaming Platform
+- Community Platform
+- Media Library
+
+The website itself powers the entire production.
+
+There are no third-party production tools required for day-to-day broadcasting.
+
+Everything happens from within the Stoner4TheRecord platform.
+
+---
+
+# Three Core Platforms
+
+## 🌐 Website
+
+The public-facing broadcast station.
+
+Used for:
+
+- Watching live broadcasts
+- Listening live
+- Community chat
+- Episode archive
+- Merchandise
+- Sponsors
+- DJ profiles
+- Shows
+- Schedules
+- Media library
+
+---
+
+## 📱 Mobile App
+
+The mobile app is the viewer companion.
+
+It is **NOT** designed to watch the broadcast as its primary purpose.
+
+Instead it allows viewers to interact with the broadcast in real time.
+
+Features include:
+
+- Game Cards
+- Trivia Answers
+- Bingo Cards
+- Live Voting
+- Song Requests
+- Polls
+- Giveaways
+- Chat
+- Push Notifications
+- QR Code Scanner
+- Community
+- Rewards
+- Digital Membership Card
+
+The app becomes the audience's controller.
+
+---
+
+## 🎬 Production Studio
+
+A completely separate production dashboard.
+
+Only accessible to authorized staff.
+
+Runs the entire broadcast.
+
+---
+
+# Production Dashboard
+
+The production dashboard is the control room.
+
+Every department logs into their own workstation.
+
+No one shares accounts.
+
+Each user only sees the controls they need.
+
+---
+
+# Production Roles
+
+## Executive Producer
+
+Complete access.
+
+Can control everything.
+
+---
+
+## Producer
+
+Controls:
+
+- Show Timeline
+- Segment Changes
+- Countdown Timers
+- Guest Queue
+- Live Status
+
+---
+
+## Host
+
+Controls:
+
+- Notes
+- Segment Information
+- Poll Results
+- Viewer Questions
+- Sponsor Notes
+- Current Schedule
+
+---
+
+## DJ
+
+Controls:
+
+- Playlist
+- Queue
+- Audio Levels
+- Song Metadata
+- Mix History
+- Now Playing
+
+---
+
+## Sound Engineer
+
+Controls:
+
+- Microphones
+- Music Levels
+- Effects
+- Audio Routing
+- Recording
+
+---
+
+## Video Director
+
+Controls:
+
+- Cameras
+- Scene Switching
+- Lower Thirds
+- Graphics
+- LED Wall
+- Replay
+- Transitions
+
+---
+
+## Graphics Operator
+
+Controls:
+
+- Logos
+- Sponsor Graphics
+- Animations
+- Scoreboards
+- Lower Thirds
+
+---
+
+## Lighting Operator
+
+Controls:
+
+- Stage Lights
+- Mood Presets
+- DJ Lighting
+- Audience Lighting
+
+---
+
+## Game Master
+
+Controls:
+
+- Launch Games
+- Start Rounds
+- Reveal Answers
+- Draw Winners
+- Lock Entries
+- End Games
+
+---
+
+## Chat Moderators
+
+Controls:
+
+- Chat
+- Bans
+- Timeouts
+- Pins
+- Announcements
+
+---
+
+## Sponsor Coordinator
+
+Controls:
+
+- Sponsor Queue
+- Promo Codes
+- Product Graphics
+- Timing
+
+---
+
+## Camera Operators
+
+Assigned cameras.
+
+Each operator controls only their own feed.
+
+---
+
+# Multi-User Broadcasting
+
+The system supports simultaneous logins.
+
+Example:
+
+Executive Producer
+
+Host
+
+DJ
+
+Sound Engineer
+
+Graphics
+
+Lighting
+
+Camera 1
+
+Camera 2
+
+Camera 3
+
+Game Master
+
+Moderator
+
+Sponsor Coordinator
+
+All connected to the same live production.
+
+Changes appear instantly across the production.
+
+---
+
+# Live Production Timeline
+
+Every broadcast has a timeline.
+
+Example:
+
+00:00 Countdown
+
+00:15 Host
+
+00:30 Sponsor
+
+00:38 DJ
+
+01:08 Smoke Sesh
+
+01:20 Comedy
+
+...
+
+Operators receive automatic reminders.
+
+---
+
+# Streaming Engine
+
+The website broadcasts directly.
+
+Supports:
+
+Live Video
+
+Live Audio
+
+Adaptive Streaming
+
+Recording
+
+Replay
+
+Instant Archive
+
+Multiple Cameras
+
+Multiple Audio Sources
+
+Remote Guests
+
+---
+
+# Automatic Recording
+
+Every public broadcast is automatically recorded.
+
+Once the stream ends:
+
+- Recording is processed
+- Thumbnail generated
+- Chapters created
+- Captions generated
+- Added to library
+
+Available for replay.
+
+---
+
+# Video Library
+
+Supports:
+
+Public Videos
+
+Private Videos
+
+Members Only
+
+Unlisted
+
+Scheduled Releases
+
+Premieres
+
+Series
+
+Playlists
+
+Highlights
+
+Trailers
+
+Clips
+
+---
+
+# Private Content
+
+Creators may upload:
+
+Private Podcasts
+
+Practice Sessions
+
+Internal Meetings
+
+Behind the Scenes
+
+Sponsor Content
+
+DJ Practice
+
+Training Videos
+
+Staff Videos
+
+---
+
+# Live Games System
+
+Games are completely independent from the broadcast.
+
+Games have their own servers and their own sessions.
+
+---
+
+## During Live Games
+
+Viewers DO NOT watch gameplay.
+
+Instead they participate through the mobile app.
+
+Examples:
+
+Bingo
+
+Trivia
+
+Guess The Strain
+
+Wheel Games
+
+Scavenger Hunts
+
+Community Challenges
+
+The focus is participation, not spectating.
+
+---
+
+# Mobile Game Center
+
+Every viewer receives a personal dashboard.
+
+Includes:
+
+Current Games
+
+Cards
+
+Scores
+
+Achievements
+
+Inventory
+
+Rewards
+
+History
+
+Statistics
+
+Upcoming Games
+
+Notifications
+
+---
+
+# Bingo
+
+Each player receives unique cards.
+
+Host controls:
+
+Draw Numbers
+
+Pause
+
+Resume
+
+Winner Verification
+
+Prize Distribution
+
+---
+
+# Trivia
+
+Host controls:
+
+Questions
+
+Timers
+
+Correct Answers
+
+Bonus Rounds
+
+Leaderboard
+
+---
+
+# Game Archives
+
+Every completed game is saved.
+
+Games become replayable experiences.
+
+Each game receives:
+
+Replay Page
+
+Results
+
+Leaderboard
+
+Questions
+
+Winning Cards
+
+Highlights
+
+---
+
+# Live Game Visibility
+
+By default:
+
+Games are NOT livestreamed.
+
+Players participate through the mobile app.
+
+After completion:
+
+Games become recordings.
+
+---
+
+# Public Finals
+
+Any game may be switched to:
+
+Public Viewing Mode
+
+Examples:
+
+Championship
+
+Season Finale
+
+Celebrity Event
+
+Special Tournament
+
+Charity Event
+
+Sponsor Competition
+
+In these cases viewers may watch live.
+
+---
+
+# Game Playlists
+
+Each game automatically creates its own archive.
+
+Examples:
+
+Stoner Bingo
+
+Season 1
+
+Episode 1
+
+Episode 2
+
+Episode 3
+
+---
+
+Trivia
+
+Season 1
+
+---
+
+Smoke Olympics
+
+Season 2
+
+---
+
+Guess The Strain
+
+Season 5
+
+---
+
+# Permissions
+
+Every production role has independent permissions.
+
+Example:
+
+DJ
+
+Can:
+
+Music
+
+Metadata
+
+Playlists
+
+Cannot:
+
+End Stream
+
+Delete Videos
+
+Change Games
+
+---
+
+Game Master
+
+Can:
+
+Launch Games
+
+Score Games
+
+Reveal Winners
+
+Cannot:
+
+Switch Cameras
+
+Control Audio
+
+Delete Videos
+
+---
+
+# Cloud Storage
+
+Stores:
+
+Broadcasts
+
+Games
+
+Graphics
+
+Music
+
+Sponsor Assets
+
+Photos
+
+Lower Thirds
+
+Clips
+
+Promos
+
+Documents
+
+---
+
+# AI Production Assistant
+
+Assists staff by:
+
+Creating Chapters
+
+Generating Captions
+
+Highlight Detection
+
+Sponsor Timing
+
+Segment Timing
+
+Clip Suggestions
+
+Camera Suggestions
+
+Chat Moderation
+
+Question Selection
+
+Automatic Social Clips
+
+---
+
+# Future Expansion
+
+- Multi-Studio Broadcasting
+- Remote DJ Stations
+- Virtual Guests
+- Viewer Camera Call-Ins
+- Virtual Reality Studio
+- Interactive Audience Seating
+- Live Shopping
+- Fantasy DJ Leagues
+- Community Broadcasts
+- Independent Creator Channels
+- 24/7 Broadcast Automation
+
+---
+
+# Ultimate Goal
+
+Stoner4TheRecord is designed as a complete digital broadcasting ecosystem.
+
+The website serves as the network.
+
+The production dashboard serves as the television control room.
+
+The mobile app serves as the audience's interactive companion.
+
+Every broadcast, game, recording, playlist, and community interaction lives within a single unified platform, allowing creators, staff, sponsors, DJs, hosts, and viewers to participate together in one seamless entertainment experience.
